@@ -552,7 +552,7 @@
 		{
 			"codigo": "1.1.12.38.3",
 			"descripcion": "Mal estado, mala distribución y/o sujeción de cualquier componente del sistema eléctrico.",
-			"tipo": "A",
+			"tipo": "B",
 			"codigotecmmas": "110",
 			"publico": 0,
 			"ensenanza": 0,
@@ -1110,17 +1110,7 @@
 			"nombre_grupo": "LUCES",
 			"nombre_defecto": "liviano pesado"
 		},
-		{
-			"codigo": "1.1.4.15.1",
-			"descripcion": "La inexistencia de una (1) Salida de Emergencia en vehículos de transporte colectivo de pasajeros con capacidad superior a 10 pasajeros sin incluir el conductor.",
-			"tipo": "A",
-			"codigotecmmas": "159",
-			"publico": 1,
-			"ensenanza": 0,
-			"visual": 1,
-			"nombre_grupo": "SALIDA DE EMERGENCIA",
-			"nombre_defecto": "liviano pesado"
-		},
+		
 		{
 			"codigo": "1.1.5.15.2",
 			"descripcion": "La  inexistencia  del  número  de  salidas  adicionales  requeridas  para  vehículos  de  transporte  colectivo  de pasajeros con capacidad superior a 15 pasajeros sin incluir el conductor.",
@@ -1187,108 +1177,6 @@
 			"nombre_grupo": "SALIDA DE EMERGENCIA",
 			"nombre_defecto": "liviano pesado"
 		},
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		{
-			"codigo": "1.1.4.15.1",
-			"descripcion": "La inexistencia de una (1) Salida de Emergencia en vehículos de transporte colectivo de pasajeros con capacidad superior a 10 pasajeros sin incluir el conductor.",
-			"tipo": "A",
-			"codigotecmmas": "159",
-			"publico": 0,
-			"ensenanza": 0,
-			"visual": 1,
-			"nombre_grupo": "SALIDA DE EMERGENCIA",
-			"nombre_defecto": "liviano pesado"
-		},
-		{
-			"codigo": "1.1.5.15.2",
-			"descripcion": "La  inexistencia  del  número  de  salidas  adicionales  requeridas  para  vehículos  de  transporte  colectivo  de pasajeros con capacidad superior a 15 pasajeros sin incluir el conductor.",
-			"tipo": "A",
-			"codigotecmmas": "160",
-			"publico": 0,
-			"ensenanza": 0,
-			"visual": 1,
-			"nombre_grupo": "SALIDA DE EMERGENCIA",
-			"nombre_defecto": "liviano pesado"
-		},
-		{
-			"codigo": "1.1.5.15.3",
-			"descripcion": "La falta de señalización, la imposibilidad de leer la leyenda “SALIDA DE EMERGENCIA” o ilegibilidad de la misma.",
-			"tipo": "A",
-			"codigotecmmas": "161",
-			"publico": 0,
-			"ensenanza": 0,
-			"visual": 1,
-			"nombre_grupo": "SALIDA DE EMERGENCIA",
-			"nombre_defecto": "liviano pesado"
-		},
-		{
-			"codigo": "1.1.5.15.4",
-			"descripcion": "La  inexistencia  de  mecanismos  de  expulsión  o  fragmentación  de  la  ventana  dispuesta  como  Salida  de Emergencia.",
-			"tipo": "A",
-			"codigotecmmas": "162",
-			"publico": 0,
-			"ensenanza": 0,
-			"visual": 1,
-			"nombre_grupo": "SALIDA DE EMERGENCIA",
-			"nombre_defecto": "liviano pesado"
-		},
-		{
-			"codigo": "1.1.5.15.5",
-			"descripcion": "Empuñadura exterior de la puerta, dispuesta como salida de emergencia, ubicada a una altura superior a 1,8 m con respecto al pavimento (piso).",
-			"tipo": "A",
-			"codigotecmmas": "163",
-			"publico": 0,
-			"ensenanza": 0,
-			"visual": 1,
-			"nombre_grupo": "SALIDA DE EMERGENCIA",
-			"nombre_defecto": "liviano pesado"
-		},
-		{
-			"codigo": "1.1.5.15.6",
-			"descripcion": "La  puerta  dispuesta  como  Salida  de  Emergencia  no  abre  hacia  afuera  del  vehículo  sino  hacia  dentro  o existen obstáculos que impidan el cumplimiento de su función.",
-			"tipo": "A",
-			"codigotecmmas": "164",
-			"publico": 0,
-			"ensenanza": 0,
-			"visual": 1,
-			"nombre_grupo": "SALIDA DE EMERGENCIA",
-			"nombre_defecto": "liviano pesado"
-		},
-		{
-			"codigo": "1.1.5.15.7",
-			"descripcion": "La  inexistencia  o  mal  funcionamiento  del  mecanismo  de  control  manual  que  impide  el  accionamiento involuntario   cuando   el   vehículo   está   dotado   de   escotillas   eyectables   dispuestas   como   Salida   de Emergencia.",
-			"tipo": "A",
-			"codigotecmmas": "165",
-			"publico": 0,
-			"ensenanza": 0,
-			"visual": 1,
-			"nombre_grupo": "SALIDA DE EMERGENCIA",
-			"nombre_defecto": "liviano pesado"
-		},
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
 		{
 			"codigo": "1.1.6.16.1",
 			"descripcion": "Los  vehículos  cuyas  emisiones  de  gases  de  escape  tengan  concentración  de  gases  y  sustancias contaminantes  mayores  a  las  establecidas  por  los  requisitos  legales  ambientales  definidas  por  las autoridades competentes",
